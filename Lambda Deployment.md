@@ -1,5 +1,5 @@
 
-# AWS_Lambda Practice - Serverless Compute
+# AWSLambda Deployment - Serverless Compute
 
 AWS Lambda, a serverless computation service provided by AWS that is applied across various verticals 
 
