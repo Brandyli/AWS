@@ -1,4 +1,4 @@
-Identifying 500 pictures of Bees Using Crowd Sourced Data using Amazon SageMaker
+## Identifying 500 pictures of Bees Using Crowd Sourced Data using Amazon SageMaker
 
 <img width="1390" alt="Screen Shot 2020-07-03 at 12 12 10 PM" src="https://user-images.githubusercontent.com/46945617/86497339-5dae6e00-bd4f-11ea-9bb8-79c97b48f38a.png">
 <img width="600" alt="Screen Shot 2020-07-03 at 12 35 39 PM" src="https://user-images.githubusercontent.com/46945617/86497350-6b63f380-bd4f-11ea-88c4-bf520d1baa4f.png">
