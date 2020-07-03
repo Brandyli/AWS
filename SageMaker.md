@@ -18,7 +18,7 @@
 <img width="753" alt="Screen Shot 2020-07-03 at 4 52 29 PM" src="https://user-images.githubusercontent.com/46945617/86497375-7b7bd300-bd4f-11ea-8a87-68b943753da2.png">
 <img width="766" alt="Screen Shot 2020-07-03 at 4 52 38 PM" src="https://user-images.githubusercontent.com/46945617/86497376-7c146980-bd4f-11ea-9ae3-e38ba616efaa.png">
 <img width="805" alt="Screen Shot 2020-07-03 at 5 06 32 PM" src="https://user-images.githubusercontent.com/46945617/86497405-96e6de00-bd4f-11ea-9409-4cb634b52bfa.png">
-The GPU instance is limited due to the account-level issue. Therefore I request a limit increase for my p2.xlarge instance by creating case in support center.
+#### The GPU instance is limited due to the account-level issue. Therefore I request a limit increase for my p2.xlarge instance by creating case in support center.
 https://udacity.zendesk.com/hc/en-us/articles/360037696812-How-do-I-request-a-limit-increase-for-my-p2-xlarge-instance-
-![image](https://user-images.githubusercontent.com/46945617/86497519-f349fd80-bd4f-11ea-94da-817a237f0af4.png)
 
+![image](https://user-images.githubusercontent.com/46945617/86497732-cd712880-bd50-11ea-9471-81ca1eb84202.png)
